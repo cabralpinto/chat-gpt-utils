@@ -1,0 +1,4 @@
+keyboard
+more_itertools
+pyperclip
+tqdm
